@@ -1,5 +1,11 @@
+body{
+
+  background-color: black;
+}
 .App {
   text-align: center;
+  background-color:navy;
+  color: azure;
 }
 
 .App-logo {
@@ -50,9 +56,4 @@
 .style{
 
   background-color:rgb(47, 4, 88);
-}
-
-.d-style{
-
-  background-color:rgb(141, 108, 172);
 }

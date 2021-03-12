@@ -14,7 +14,7 @@ const Footer = () => {
                   <h1 style={{color:'white'}}>
                       LET'S STAY IN TUCH
                   </h1>
-                  <h6 id="h-style">Get updates on sales, specials and more
+                  <h6 id="h-style">Get updates , specials and more
                   </h6>
                  <h6 id="style-h" >
                   championsleague.com <FontAwesomeIcon icon={faEnvelope} /> | Terms of Use and Sale |Privacy Policy 

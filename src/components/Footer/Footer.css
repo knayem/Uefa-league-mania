@@ -1,11 +1,13 @@
 #h-style{
     text-align: center;}
     #style-h{
-
+padding:.5px;
+margin-bottom: 1%;
         text-align: center;
         color: whitesmoke;
-
+        font-size:15px;
     }
+    
 
     .footer-Style{
    
