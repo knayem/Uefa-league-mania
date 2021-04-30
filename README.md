@@ -3,3 +3,5 @@ Here we can see leagues details  in europ by clicking  .mainly from those league
 those leagues are very propular leagues all over the world ..and by this site any one can connected with them  ..
 
 [my site](https://quizzical-khorana-f12b24.netlify.app)
+❖ Features & Technology in this project: html,css,react 
+Js,firebase,netlify,react-bootstrap
